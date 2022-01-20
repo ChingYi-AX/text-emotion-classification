@@ -2,9 +2,10 @@
 
 - Goal of this repository:
   1. Train model on united emotion dataset (12 dataset)
-  2. **ktrain** light Tensorflow keras, really easy to understand and use for beginner 
-  3. Express good generalization result when evaluate on unified dataset(included 12 datasets).
-  4. AWS store 
+  2. Achieve both single label and multiple label classification. (multiple label means one statement has multiple emotion label)
+  3. **ktrain** light Tensorflow keras, really easy to understand and use for beginner 
+  4. Express good generalization result when evaluate on unified dataset(included 12 datasets).
+  5. AWS store 
 
 - Motivation: Emotion dataset usually not very high-quailty, different dataset is annotated via different standard, we used unified dataset, which united 12 emotion dataset, and reannotated it. emotion classification is always a challenging task in text and speech. Our model show good generalization compared to (Roman original paper)
 
