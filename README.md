@@ -5,7 +5,8 @@
 <a href="https://github.com/huaminghuangtw/<REPO-NAME>"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></a><br/>
 
 
-> A easy-to-build emotion classification pipeline with [ktrain](https://github.com/amaiya/ktrain), which is a lightweight wrapper for the deep learning library TensorFlow Keras. We used BERT pre-trained model and trained on a unified dataset which consist of 12 emotion corporas. 
+### Introduction 
+A easy-to-build emotion classification pipeline with [ktrain](https://github.com/amaiya/ktrain), which is a lightweight wrapper for the deep learning library TensorFlow Keras. We used BERT pre-trained model and trained on a unified dataset which consist of 12 emotion corporas. 
 
 ### Motivation 
   1. [ktrain](https://github.com/amaiya/ktrain) is very friendly for the beginner 
