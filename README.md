@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
   
 3. Prepare data:
- - you can find the unified emotion corpora [here](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/unifyemotion/)
+ - you can download the unified emotion corpora [here](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/unifyemotion/)
  - The default dataset is in json or tsv format.
  - Each datapoint has following information: 'ID', 'Corpora', 'Text', 'Emotion'
   
