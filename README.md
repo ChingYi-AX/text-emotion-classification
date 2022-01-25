@@ -39,7 +39,23 @@ pip install -r requirements.txt
 ---
 
 ### Result sample
-  
+ 
+```
+Input Text: Always love 'Jeni's' ice cream🍨💓#my #favorite #icecream #ohaio #yum #delicious #happy… https://t.co/JtQ9a1Ag1z
+Predicted Label --> joy /      Ground Truth Label --> joy
+
+Input Text: @masters_say sounds like a perfect night that I miss spending with you! #imiss12303
+Predicted Label --> sadness /   Ground Truth Label --> sadness
+
+Input Text: You can't beat a bit of Division. Interzone.
+Predicted Label --> noemo /     Ground Truth Label --> joy
+
+Input Text: @JordanWooten yeah, yeah. we'll see....can't ruin Christmas.
+Predicted Label --> surprise /  Ground Truth Label --> surprise
+
+Input Text: Bon. On va tenter la cuisine avec l'huile d'arachide ...
+Predicted Label --> fear /      Ground Truth Label --> fear
+```
   
 ---
 
@@ -60,9 +76,9 @@ pip install -r requirements.txt
 
 ### Contact
 If you have any question or suggestion, feel free to contact me at haching1105@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/ChingYi-AX/text-emotion-classification/compare) or an [issue](https://github.com/ChingYi-AX/text-emotion-classification/issues/new) in this repository.
-
+ 
 ---
-### Cite
+### Citation
 ```
 @inproceedings{bostan-klinger-2018-analysis,
     title = "An Analysis of Annotated Corpora for Emotion Classification in Text",
