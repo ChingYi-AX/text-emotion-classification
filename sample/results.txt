@@ -1,0 +1,120 @@
+Input Text: Always love 'Jeni's' ice cream🍨💓#my #favorite #icecream #ohaio #yum #delicious #happy… https://t.co/JtQ9a1Ag1z
+Predicted Label --> joy /      Ground Truth Label --> joy
+Input Text: @masters_say sounds like a perfect night that I miss spending with you! #imiss12303
+Predicted Label --> sadness /   Ground Truth Label --> sadness
+Input Text: You can't beat a bit of Division. Interzone.
+Predicted Label --> noemo /     Ground Truth Label --> joy
+Input Text: I have war world 76 going on in my uterus and a crime scene in my pants...tommorow is gonna be a GREAT day
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: @jsargent90 wat happened sat nite?can't rem much, where back at that party?
+Predicted Label --> noemo /     Ground Truth Label --> fear
+Input Text: @JordanWooten yeah, yeah. we'll see....can't ruin Christmas.
+Predicted Label --> surprise /  Ground Truth Label --> surprise
+Input Text: I have to wear my glasses today
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: Going to cry over not going to @thedrumsforever @Jonnypierce bristol gig this week but instead revise for history
+Predicted Label --> sadness /   Ground Truth Label --> joy
+Input Text: Time to turn around and go BACK through all that wonderful snow.  #shootmenow #fb
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: pop out &amp; roll across the floor !
+Predicted Label --> noemo /     Ground Truth Label --> surprise
+Input Text: when you say you're from guilderland, all the local college kids think you're a spoiled rich fag
+Predicted Label --> noemo /     Ground Truth Label --> sadness
+Input Text: @_jeanralphio Unjust! I wanted Brian to liiiiiiiive. Also, I spoiled myself so now I know my chocolate cop dies.
+Predicted Label --> sadness /   Ground Truth Label --> sadness
+Input Text: Bon. On va tenter la cuisine avec l'huile d'arachide ...
+Predicted Label --> fear /      Ground Truth Label --> fear
+Input Text: God know just when to show up and just who to use to restore a lil in my life
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: ugh science and french tests tmo. and I forgot my books
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: So I'm outside sitting n my car and a fag just walked by my car and said &quot; fish I can't wait to spend around on that nigga dick&quot;
+Predicted Label --> surprise /  Ground Truth Label --> disgust
+Input Text: not afraid of tomorrow, for I have seen yesterday and I love today #less
+Predicted Label --> fear /      Ground Truth Label --> fear
+Input Text: Damn internet. Keeps knocking me out. I want to punch someone. management #stressed
+Predicted Label --> anger /     Ground Truth Label --> anger
+Input Text: Kinderen komen net thuis. En ik ben er!!  Benieuwd of ze het leuk hebben gehad!
+Predicted Label --> surprise /  Ground Truth Label --> surprise
+Input Text: Mr Ahmad is absent, first time from the beginning of the year
+Predicted Label --> sadness /   Ground Truth Label --> joy
+Input Text: @heidiraff Musical folks are especially sensitive to those things;) Plenty more tunes until Christmas.
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: &quot;@hartramsey
+Predicted Label --> joy /       Ground Truth Label --> anger
+Input Text: bulls need to complete signandtrade for crawford, sign bulter.. the rest of the league can sit back and pull the covers up their chins
+Predicted Label --> fear /      Ground Truth Label --> fear
+Input Text: 2011? You give me a lot of things that i can't FORGET ;') , 2012?? SURPRISE ME!!!! me
+Predicted Label --> surprise /  Ground Truth Label --> surprise
+Input Text: love me a nice, cold glass of chocolate milk right now
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: I hate shopping with my mother
+Predicted Label --> sadness /   Ground Truth Label --> anger
+Input Text: Turns out pancakes aren't the only thing good smothered in butter and maple syrup. Acorn squash too!
+Predicted Label --> surprise /  Ground Truth Label --> surprise
+Input Text: Right peeps i'm off, got my sister's ice skating show to go to
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: @sbpc07 thinking of you as a man makes nasal snorting heavy breathing noises at the airport ...Why does this always happen to us?!?
+Predicted Label --> disgust /   Ground Truth Label --> disgust
+Input Text: so confused and misunderstood, need this game tomorrow to let out some ! #CantWait
+Predicted Label --> fear /      Ground Truth Label --> anger
+Input Text: Christmas tree shopping..
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: Today it's all about gambling regulation. #sarcasm
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: Anyone surprised we've proof of yet another lie from dear leader Obama.   Now we're told there was Ayers fundraiser #obamafail
+Predicted Label --> disgust /   Ground Truth Label --> surprise
+Input Text: @flolly Feel free to! Just be warned, I'm a Fattie McFattie. Weighed myself the other day, and I'm the heaviest I've ever been
+Predicted Label --> fear /      Ground Truth Label --> sadness
+Input Text: BLACK eyed Peas Concert!!
+Predicted Label --> joy /       Ground Truth Label --> surprise
+Input Text: @ChrisClose50 lush. I have three children and xfactor final to look forward to
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: This is what happens when you sleep with someone they turn into a dick head, shame really, eh? Buffy &amp; Angel #Buffy
+Predicted Label --> disgust /   Ground Truth Label --> surprise
+Input Text: @HannyBananyyy @vinniepizza I've been pregnant you guys, the entire time we've known eachother.
+Predicted Label --> sadness /   Ground Truth Label --> surprise
+Input Text: Would love for someone to throw me a party for my bday lol I guess it wouldn't be called a surprise #party then
+Predicted Label --> surprise /  Ground Truth Label --> surprise
+Input Text: what a nice day I had, minus the middle part...
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: I think they call this... um... Venting
+Predicted Label --> sadness /   Ground Truth Label --> fear
+Input Text: Forget Everything And Remember, For Everything A Reason.
+Predicted Label --> fear /      Ground Truth Label --> fear
+Input Text: “@RevRunWisdom
+Predicted Label --> fear /      Ground Truth Label --> fear
+Input Text: Oh yeah and final speech tomorrow plus two more days of Mrs. Greiner. #sarcastictweet
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: Its funny because I stopped caring weeks ago... I just wanted to see how long it would take you to realize what we have is a joke
+Predicted Label --> sadness /   Ground Truth Label --> surprise
+Input Text: School..check. Now I have to go get me finger cut open.
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: Leaving boxers on a radiator over night and then putting them on this morning was probably my best idea ever
+Predicted Label --> surprise /  Ground Truth Label --> joy
+Input Text: @LouisVanRoy mijn voorziene plannen van morgen vallen net als die v vnv in het water, maar keb nog een plan C ;)
+Predicted Label --> surprise /  Ground Truth Label --> surprise
+Input Text: I Might Tell A Lie If You Ask Me Bout My Whereabouts But I Might Speak That Real If You Ask Me What I Care About
+Predicted Label --> surprise /  Ground Truth Label --> joy
+Input Text: Time to work on the group paper for english..
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: Don't miss our Christmas Eve Candlelighting service. 7 pm Xmas Eve at Semiahmoo House in
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: Not gonna lie... Some people's morals &amp; values completely me...
+Predicted Label --> fear /      Ground Truth Label --> disgust
+Input Text: Tonight it's going to be a looooonnnggg night. Didn't do any b day homework over the weekend..
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: But, I'm happy &amp; loving it!!! I'm going to enjoy reading every single book!! ON MY TIME
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: Just met a nice group of students camping outside the Schott for tomorrow night's Duke game. Playing cards &amp; eating pizza in the rain.
+Predicted Label --> joy /       Ground Truth Label --> joy
+Input Text: is like the red headed male  step-child of who ain't come out the closet and got a black sheep for a pet.
+Predicted Label --> surprise /  Ground Truth Label --> fear
+Input Text: Home sweet home! #celebrategoodtimes
+Predicted Label --> joy /       Ground Truth Label --> surprise
+Input Text: Sudden pain under my tongue  has forced me to remove 9 yr old tongue ring Is it time to let it go?  HELP @bkangel1617
+Predicted Label --> fear /      Ground Truth Label --> sadness
+Input Text: Ordered a pair o Nike's from @nikestoreeurope on friday, still on being processed on monday...#impatient
+Predicted Label --> anger /     Ground Truth Label --> sadness
+Input Text: comes from inability to change or control the situation #CHILL
+Predicted Label --> anger /     Ground Truth Label --> anger
