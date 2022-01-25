@@ -1,6 +1,4 @@
-# 100-lines-text-emotion-classification
-
-Project Name
+100-lines-text-emotion-classification
 ============
 
 <p align="left">
