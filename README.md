@@ -22,5 +22,5 @@
 ---
 
 ### Contact
-If you have any question or suggestion, feel free to contact me at haching1105@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/huaminghuangtw/<REPO-NAME>/compare) or an [issue](https://github.com/huaminghuangtw/<REPO-NAME>/issues/new) in this repository.
+If you have any question or suggestion, feel free to contact me at haching1105@gmail.com. Contributions are also welcomed. Please open a [pull-request]https://github.com/ChingYi-AX/text-emotion-classification/compare) or an [issue](https://github.com/ChingYi-AX/text-emotion-classification/issues/new) in this repository.
 
